@@ -21,7 +21,7 @@ public int encontrarPosicao(int valor) {
         atual = atual.proximo;
         posicao++;
     }
-    return -1; // Valor não encontrado
+    return -1;
 }
 
 //16 - Crie uma função para apresentar o último elemento da fila:
